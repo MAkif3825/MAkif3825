@@ -1,5 +1,7 @@
 ### Hi there 👋
-My name is Mehmet Akif. I am 19 and Freshmen in Computer Science at Bilkent University. I am currently learning Programming and Algorithims. 
+My name is Mehmet Akif. 
+I am 19 and I am from Türkiye, Kayseri 🇹🇷.
+I am Freshmen in Computer Science at Bilkent University. I am currently learning Programming and Algorithims. 
 <!--
 **MAkif3825/MAkif3825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
